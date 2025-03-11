@@ -53,7 +53,7 @@ main()
   </a>
 
   <a href="https://www.linkedin.com/in/miguel-s13/">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Miguel Angel Santa's LinkedIn Profile" height="30" width="30">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="Miguel Angel Santa's LinkedIn Profile" height="30" width="30">
   </a>
 
   <a href="https://stackoverflow.com/users/22430138/miguel-s?tab=profile">
