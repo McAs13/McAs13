@@ -24,9 +24,9 @@ main()
 
 <h2 align="center">Currently Studying</h2>
 <p align="center">
-  🌱 Exploring the depths of <strong>C#</strong> with a focus on Web Applications using <strong>MVC</strong> as part of my learning journey!
+  🌱 Currently focused on <strong>Data Analytics with Python</strong> and <strong>Power BI report generation</strong> as part of my professional journey!
   <a href="https://skillicons.dev" style="vertical-align: middle;">
-    <img src="https://skillicons.dev/icons?i=cs" alt="My Skills" style="height: 24px; margin-left: 8px;">
+    <img src="https://skillicons.dev/icons?i=py" alt="My Skills" style="height: 24px; margin-left: 8px;">
   </a>
 </p>
 
